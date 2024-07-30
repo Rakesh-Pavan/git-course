@@ -1,0 +1,2 @@
+This is a userdefined text file and it is staged and
+pushed to remote repository
